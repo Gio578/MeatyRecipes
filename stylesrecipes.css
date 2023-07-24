@@ -1,0 +1,148 @@
+.home-header {
+  text-align: center;
+  color: white;
+  background-color: Maroon;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 10px;
+  font-family: "Papyrus", "fantansy";
+  font-size: 75px
+}
+
+body {
+  background-color: DarkRed;
+  font-family: "Papyrus", "fantansy";
+  color: white;
+}
+
+.recipes-images {
+  text-align: center;
+  justify-content: center;
+  height: 150px;
+  padding: 25px;
+  margin: 40px;
+  background-color: Maroon;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.recipe-names {
+  text-align: center;
+  justify-content: center;
+  background-color: Maroon;
+  padding: 25px;
+  margin-right: 25px;
+  margin-left: 25px;
+  margin-bottom: 25px;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.individual-recipe-images {
+  height: 300px;
+  margin-top: 0px;
+  margin-bottom: 40px;
+  margin-right: 40px;
+  margin-left: 40px;
+  padding: 50px;
+  background-color: Maroon;
+}
+
+.individual-recipe-images-captions {
+  margin-left: 40px;
+  background-color: Maroon;
+  padding: 50px;
+}
+
+.ingredients-list {
+  list-style-type: NONE;
+  margin: 0;
+  padding: 0;
+}
+
+.recipe-description {
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 40px;
+  padding: 50px;
+  background-color: Maroon;
+}
+
+.steps-list {
+  margin: 0;
+  padding: 0px;
+}
+
+.side-side {
+  display: inline-block
+}
+
+.h1-recipes {
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 15px;
+  text-align: center;
+  background-color: Maroon;
+}
+
+.recipes_nav {
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 500px;
+  margin-bottom: 1px;
+  padding: 15px;
+  text-align: center;
+  background-color: Maroon;
+}
+
+.like {
+  height: 300px;
+  margin-top: 0px;
+  margin-bottom: 40px;
+  margin-right: 40px;
+  margin-left: 80px;
+  padding: 50px;
+  background-color: Maroon;
+}
+
+.heart-image {
+  display: flex;
+  height: 100px;
+  align-content: center;
+  justify-content: center;
+}
+
+.heart-button {
+  background-color: maroon;
+  border: None;
+  outline: none;
+}
+
+.comments {
+  height: 300px;
+  margin-top: 0px;
+  margin-bottom: 40px;
+  margin-right: 40px;
+  margin-left: 80px;
+  padding: 50px;
+  background-color: Maroon;
+}
+
+#flank-steak {
+
+}
+
+#beer-butt-chicken {
+
+}
+
+#honey-mustard-grilled-chicken {
+
+}
+
+#Recipes-Names {
+  padding: 2px;
+  margin: 50px;
+}
